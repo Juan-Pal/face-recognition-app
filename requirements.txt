@@ -1,0 +1,7 @@
+streamlit==1.44.0
+streamlit-webrtc==0.53.10
+opencv-python==4.11.0.86
+insightface==0.7.3
+numpy==2.2.4
+pillow==11.1.0
+scipy==1.15.2
